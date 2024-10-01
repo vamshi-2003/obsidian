@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c856cde2a333bad2",
+        "id": "ed586914c6905958",
         "type": "tabs",
         "children": [
           {
-            "id": "dcabc0d4c1bf7039",
+            "id": "500c64d00808c1fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/16-09-2024.md",
+                "file": "Daily notes/27-09-2024.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "110e407af66d76fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8dc5f937a05245de",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Daily notes/16-09-2024.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.6656413776115409,
-                  "close": true
-                }
               }
             }
           }
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/16-09-2024.md",
+                "file": "Daily notes/27-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/16-09-2024.md",
+                "file": "Daily notes/27-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,15 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/16-09-2024.md"
+                "file": "Daily notes/27-09-2024.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc5f937a05245de",
+  "active": "85e6fbdbec7dc569",
   "lastOpenFiles": [
-    "Daily-map.canvas",
     "Daily notes/Today.md",
-    "Daily notes/16-09-2024.md",
+    "Daily notes/27-09-2024.md",
     "Myjourney.canvas",
+    "Daily notes/Daily-map.canvas",
+    "Daily notes/16-09-2024.md",
+    "Daily notes/21-09-2024.md",
     "Daily-Graph.canvas",
     "Untitled.md",
     "Daily notes",
